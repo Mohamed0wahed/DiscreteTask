@@ -1,0 +1,15 @@
+E:\visual std\perfeectnum\perfeectnum\bin\Debug\net6.0\perfeectnum.exe
+E:\visual std\perfeectnum\perfeectnum\bin\Debug\net6.0\perfeectnum.deps.json
+E:\visual std\perfeectnum\perfeectnum\bin\Debug\net6.0\perfeectnum.runtimeconfig.json
+E:\visual std\perfeectnum\perfeectnum\bin\Debug\net6.0\perfeectnum.dll
+E:\visual std\perfeectnum\perfeectnum\bin\Debug\net6.0\perfeectnum.pdb
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.csproj.AssemblyReference.cache
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.AssemblyInfoInputs.cache
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.AssemblyInfo.cs
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.csproj.CoreCompileInputs.cache
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.dll
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\refint\perfeectnum.dll
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.pdb
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\perfeectnum.genruntimeconfig.cache
+E:\visual std\perfeectnum\perfeectnum\obj\Debug\net6.0\ref\perfeectnum.dll
